@@ -86,7 +86,7 @@
     "rollup-plugin-terser": "^5.1.1",
     "semver": "^7.1.2",
     "which": "^2.0.2",
-    "yargs-parser": "^16.1.0"
+    "yargs-parser": "^18.1.0"
   },
   "eslintConfig": {
     "extends": [
