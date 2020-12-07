@@ -60,7 +60,7 @@
     "cosmiconfig": "^7.0.0",
     "cross-env": "^7.0.0",
     "cross-spawn": "^7.0.3",
-    "doctoc": "^1.4.0",
+    "doctoc": "^2.0.0",
     "eslint": "^7.8.1",
     "eslint-config-codfish": "^6.0.1",
     "glob": "^7.1.5",
