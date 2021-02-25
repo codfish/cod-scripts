@@ -68,7 +68,7 @@
     "doctoc": "^2.0.0",
     "eslint": "^7.15.0",
     "eslint-config-codfish": "^8.2.0",
-    "eslint-config-prettier": "^7.0.0",
+    "eslint-config-prettier": "^8.1.0",
     "glob": "^7.1.5",
     "husky": "^4.3.5",
     "is-ci": "^2.0.0",
